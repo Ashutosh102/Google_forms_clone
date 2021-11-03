@@ -14,3 +14,5 @@ To start creating a CRUD Operation In JavaScript, makes sure that you have any p
 	<li><b> Step 5: The actual code:</b>You are free to copy the code  and paste to your different file created.</li>
 </ul>
  
+<h1>Sample</h1>
+<img src="https://user-images.githubusercontent.com/75971776/140173747-e9ef3be6-bd26-4d34-8d73-34e8275998a6.png" >
